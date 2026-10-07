@@ -4,3 +4,11 @@ uploads/
 
 /generated/prisma
 Icon?
+
+# File di sistema e degli editor
+.DS_Store
+.idea/
+.vscode/
+
+# Log
+*.log
